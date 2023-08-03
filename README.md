@@ -2,12 +2,12 @@
 
 Projects for the Course: 
 
-**Operating Systems** (6th Semester ECE-NTUA)
+[**Operating Systems** (6th Semester ECE-NTUA)](https://www.ece.ntua.gr/gr/undergraduate/courses/3136)
 
 # Εκφωνήσεις
 [Εκφωνήσεις των εργαστηριακών ασκήσεων](https://github.com/philmard/Operating_Systems/tree/main/Ekfwnhseis2023)
 
-Περιεχόμενο μαθήματος:
+# Περιεχόμενο μαθήματος
 
 Μέρος 1: Επισκόπηση
 
