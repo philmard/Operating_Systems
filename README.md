@@ -4,6 +4,7 @@ Projects for the Course:
 
 **Operating Systems** (6th Semester ECE-NTUA)
 
+# Εκφωνήσεις
 [Εκφωνήσεις των εργαστηριακών ασκήσεων](https://github.com/philmard/Operating_Systems/tree/main/Ekfwnhseis2023)
 
 Περιεχόμενο μαθήματος:
