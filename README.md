@@ -1,8 +1,10 @@
 # Operating_Systems
 
-Projects for the Course: **Operating Systems** (6th Semester ECE-NTUA)
+Projects for the Course: 
 
-Περιεχόμενο μαθήματος
+**Operating Systems** (6th Semester ECE-NTUA)
+
+Περιεχόμενο μαθήματος:
 
 **Μέρος 1: Επισκόπηση**
 
